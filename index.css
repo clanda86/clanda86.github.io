@@ -1,0 +1,43 @@
+.title {
+    font: yellow;
+    background-image: "https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg";
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.brushes {
+    background-color: aqua;
+    font: white;
+    font-weight: bold;
+    font-size: 20px
+}
+
+.hacksaw {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.frames {
+    background-color: palevioletred;
+    font: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.art {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.paint {
+    background-color: lightblue;
+    font: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.clean {
+    font-weight: bold;
+    font-size: 16px;
+}
